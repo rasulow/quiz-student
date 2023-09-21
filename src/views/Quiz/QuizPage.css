@@ -1,0 +1,22 @@
+
+.question{
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    line-height: 40px;
+}
+
+.countdown {
+    font-size: 50px;
+    font-weight: 700;
+    color: #7FBA5E;
+    margin: 0;
+}
+
+.question-number {
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    font-weight: 200;
+}
